@@ -1,2 +1,16 @@
-xml
-
+<?xml version="1.0" encoding="UTF-8"?><response>
+<item id="WOORY-5226">
+<name><![CDATA[LG X4 케이스 X410 캣WG2 다이어리]]></name>
+<url>http://qorghk10.mallmoa.co.kr/shop/view.php?index_no=1001849417</url>
+<description><![CDATA[]]></description>
+<image>http://image.selldoum.com/image/goods/100001/1001849417_1.jpg</image>
+<thumb>http://image.selldoum.com/image/goods/100001/1001849417_1.jpg</thumb>
+<price>32670</price>
+<quantity>999999999</quantity>
+<category>
+<first id="MJ01"><![CDATA[]]></first>
+<second id="ML01"><![CDATA[]]></second>
+<third id="MN01"><![CDATA[]]></third>
+</category>
+<returnInfo><zipcode><![CDATA[62301]]></zipcode><address1><![CDATA[광주광역시 광산구 목련로382번길 79, 201동 807호(신가동, 중흥아파트)]]></address1><address2><![CDATA[ ]]></address2><sellername><![CDATA[백화몰]]></sellername><contact1><![CDATA[070-3973-6884]]></contact1></returnInfo></item>
+</response>
