@@ -80,6 +80,15 @@
 </optionItem>
 
 
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[재질/수량]]></name>
+<value>
+<id>S_fec487bac2074e8466be22de32bf78</id>
+<text><![CDATA[120모조 약500매]]></text>
+</value>
+</optionItem>
+
 
 
 <optionItem>
