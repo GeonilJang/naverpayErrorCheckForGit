@@ -1,137 +1,18 @@
-<products>
-<product>
-<id>1000000076</id>
-<ecMallProductId>1000000076</ecMallProductId>
-<name><![CDATA[어린이집대봉투-유치원대봉투 324 (33*24.5cm)]]></name>
-<basePrice>118000</basePrice>
-<taxType>TAX</taxType>
-<infoUrl><![CDATA[http://kiddesign.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000076]]></infoUrl>
-<imageUrl><![CDATA[http://www.kiddesign.co.kr/data/goods/18/02/06/1000000076/1000000076_main_08.jpg]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>true</optionSupport>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>2</groupId>
-<conditionalFree>
-<basePrice>50000</basePrice>
-</conditionalFree>
-<feePayType>PREPAYED</feePayType>
-<feePrice>3000</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
-<surchargeByArea>
-<splitUnit>3</splitUnit>
-<area2Price>3000</area2Price>
-<area3Price>5000</area3Price>
-</surchargeByArea>
-</shippingPolicy>
-<option>
-
-
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[재질]]></name>
-<value>
-<id>S_dd1f42ac7ee568157b23cb0964a441</id>
-<text><![CDATA[120모조 약500매]]></text>
-</value>
-<value>
-<id>S_a6d8790fbcacd3e0e687e992fcafa3</id>
-<text><![CDATA[120모조 약1000매]]></text>
-</value>
-<value>
-<id>S_e761291756c2cdd5629eb63d585b89</id>
-<text><![CDATA[120모조 약2000매]]></text>
-</value>
-<value>
-<id>S_6f10367089d03ea093ef4e1cf64741</id>
-<text><![CDATA[줄레쟈크 약500매]]></text>
-</value>
-<value>
-<id>S_d38f655dcd5efb9ad600d65e539d51</id>
-<text><![CDATA[줄레쟈크 약1000매]]></text>
-</value>
-<value>
-<id>S_9ba3e90f4569c24d48a2d7eedfc36c</id>
-<text><![CDATA[줄레쟈크 약2000매]]></text>
-</value>
-<value>
-<id>S_071dfac63f85986573e182990f71ca</id>
-<text><![CDATA[체크레쟈크 약500매]]></text>
-</value>
-<value>
-<id>S_eeb04ac112340de8067ecd507d38a0</id>
-<text><![CDATA[체크레쟈크 약1000매]]></text>
-</value>
-<value>
-<id>S_d938298dd262aa16cdd1b80ef33c80</id>
-<text><![CDATA[체크레쟈크 약2000매]]></text>
-</value>
-</optionItem>
-
-
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[수량]]></name>
-<value>
-<id>S_8bc33de7706e266814a5637b571b57</id>
-<text><![CDATA[]]></text>
-</value>
-</optionItem>
-
-
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[재질/수량]]></name>
-<value>
-<id>S_fec487bac2074e8466be22de32bf78</id>
-<text><![CDATA[120모조 약500매]]></text>
-</value>
-</optionItem>
-
-
-
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[원명]]></name>
-</optionItem>
-
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[전화/팩스]]></name>
-</optionItem>
-
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[주소/기타]]></name>
-</optionItem>
-
-
-<combination>
-<manageCode>option1904</manageCode>
-<options>
-<name><![CDATA[재질/수량]]></name>
-<id>S_fec487bac2074e8466be22de32bf78</id>
-</options>
-
-<options>
-<name><![CDATA[원명]]></name>
-<id>T218</id>
-</options>
-
-<options>
-<name><![CDATA[전화/팩스]]></name>
-<id>T219</id>
-</options>
-
-<options>
-<name><![CDATA[주소/기타]]></name>
-<id>T220</id>
-</options>
-<price>0</price>
-</combination>
-
-
-</option>
-</product>
-</products>
+<response>
+<item id="31923">
+<name><![CDATA[[도매 주문제작]-마이보틀 스트랩-기프트 인쇄 주문제작 공장 판촉물 행사 영업 기념 개업 오픈 기업 회사 학원 단체 학교]]></name>
+<url>http://giftartbang.com/sshop/goods.php?pagecase=view&gccode=005011004&g_num=31923</url>
+<description><![CDATA[ㆍ규격 : 195 mm × 65 mm / 500 ml ㆍ원산지 : 한국ㆍ재질 : 패트 / PPㆍ색상 : 검정, 흰색ㆍ포장 : 크라프트 재질의 인박스 포함]]>
+</description>
+<image>http://giftartbang.com/ftp/19kgoc/_good/22057.jpg</image>
+<thumb>http://giftartbang.com/ftp/19kgoc/_good/22057_150.jpg</thumb>
+<price>1553</price>
+<quantity>99999999</quantity>
+<category>
+<first>주방용품</first>
+<second>보온/보냉병</second>
+<third>텀블러</third>
+</category>
+<options> </options>
+</item>
+</response>
